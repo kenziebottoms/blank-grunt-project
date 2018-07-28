@@ -2,10 +2,10 @@
 
 An empty Grunt-running setup including:
 
-![](https://img.shields.io/badge/updated-june_1st_2018-green.svg)
+![](https://img.shields.io/badge/updated-july_27th_2018-green.svg)
 ![](https://img.shields.io/badge/handlebars-v4.0.11-F47904.svg)
 ![](https://img.shields.io/badge/browserify-v5.3.0-ff69b4.svg)
-![](https://img.shields.io/badge/grunt-v1.0.2-ED8024.svg)
+![](https://img.shields.io/badge/grunt-v1.0.3-ED8024.svg)
 
 # Using this repo
 
